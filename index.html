@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>Book store</title>
+  </head>
+  <body>
+    <nav class="b">
+      <h1>Awesome Books</h1>
+      <ul class="list-style nav-items">
+        <li class="links" id="list"><strong>List</strong></li>
+        <li><span class="line"></span></li>
+        <li class="links" id="add-new"><strong>Add New</strong></li>
+        <li><span class="line"></span></li>
+        <li class="links" id="contact"><strong>Contact</strong></li>
+      </ul>
+    </nav>
+    <div class="time">
+      <time id="current-time" datetime="2022-03-19T09:25:32.929">
+        
+      </time>
+    </div>
+    <main class="container">
+      <section class="active section" id="list-section">
+        <h2>All awesome books</h2>
+        <ul class="book-list"></ul>
+      </section>
+
+      <section class="form-section" id="add-new-section">
+        <h2 id="form-heading">Add a new book</h2>
+        <form id="book-form" class="form">
+          <input
+            type="text"
+            class="title-input"
+            placeholder="Title"
+            minlength="2"
+            required
+          />
+          <input
+            type="text"
+            class="author-input"
+            placeholder="Author"
+            minlength="2"
+            required
+          />
+          <button type="submit" class="add-button">Add</button>
+        </form>
+      </section>
+      <section class="contacts-section" id="contact-section">
+        <h2>Contact Information</h2>
+        <br>
+        <br>
+        <p class="bold">Do you have any questions or you just want to say hello you can reach out to us</p>
+        <ul>
+          <li class="bold">Our email: mail@mail.com</li>
+          <li class="bold">Our phone number: (555) 4363567342644</li>
+          <li class="bold">Our address: 54th kingston street, Arizona</li>
+        </ul>
+      </section>
+    </main>
+    <footer class="b">CopyRight...</footer>
+    <script src="index.js"></script>
+  </body>
+</html>
