@@ -60,7 +60,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone the project
 
 ```bash
-git clone https://github.com/basitkorede/html-template.git
+git clone git@github.com:ibrahim777764/project-awesome-books.git
 
 ```
 
@@ -82,11 +82,6 @@ Or to automatically fix issues found (where possible):
 npx stylelint "**/*.{css,scss}" --fix
 ```
 
-You can also check against Webhint:
-
-```bash
-npx hint --telemetry=off .
-```
 
 ## 👤 Author
 
