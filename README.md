@@ -104,15 +104,13 @@ npx hint --telemetry=off .
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/BasitKorede)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/basit-korede/)
+- GitHub: [@githubhandle](https://github.com/ibrahim777764/)
+- Twitter: [@twitterhandle](https://twitter.com/Ibrahim66650696)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ibrahim-naseer-215667225/)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/efoosag)
 
 ## 🤝 Contributing
 
