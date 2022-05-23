@@ -40,7 +40,7 @@ Javascrpit
 - JSON.Stringify
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://ibrahim777764.github.io/project-awesome-books/)
 
 ## Getting Started
 
