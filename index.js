@@ -1,5 +1,3 @@
-// let disAuthor = document.querySelector('.author-input').value;
-// let disTitle = document.querySelector('title-input').value;
 const add = document.querySelector('.add-button');
 const remove = document.querySelector('#remove');
 const ul = document.querySelector('.book-list');
