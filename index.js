@@ -160,4 +160,5 @@ const navigatePage = () => {
     return true;
   };
 
- 
+  navLists.forEach((navlist) => {
+  
