@@ -1,8 +1,8 @@
 /* eslint-disable max-classes-per-file */
 
-const listLink = document.getElementById('list');
-const formLink = document.getElementById('add-new');
-const contactLink = document.getElementById('contact');
+// const listLink = document.getElementById('list');
+// const formLink = document.getElementById('add-new');
+// const contactLink = document.getElementById('contact');
 
 const list = document.getElementById('list-section');
 const formSection = document.getElementById('add-new-section');
@@ -159,5 +159,4 @@ const navigatePage = () => {
       .classList.add('active');
     return true;
   };
-
- 
+};
