@@ -160,8 +160,4 @@ const navigatePage = () => {
     return true;
   };
 
-  navLists.forEach((navlist) => {
-    navlist.addEventListener('click', handleNavigation);
-  });
-};
-navigatePage();
+ 
