@@ -159,4 +159,9 @@ const navigatePage = () => {
       .classList.add('active');
     return true;
   };
+
+  navLists.forEach((navlist) => {
+    navlist.addEventListener('click', handleNavigation);
+  });
 };
+navigatePage();
