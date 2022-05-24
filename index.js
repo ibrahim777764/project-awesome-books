@@ -164,3 +164,4 @@ const navigatePage = () => {
     navlist.addEventListener('click', handleNavigation);
   });
 };
+navigatePage();
