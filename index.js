@@ -161,4 +161,6 @@ const navigatePage = () => {
   };
 
   navLists.forEach((navlist) => {
-  
+    navlist.addEventListener('click', handleNavigation);
+  });
+};
