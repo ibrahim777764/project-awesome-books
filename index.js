@@ -144,7 +144,7 @@ const handleRemove = (currentId) => {
 };
 
 const navigatePage = () => {
-  
+  const navLists = document.querySelectorAll('.nav-list-item');
   const handleNavigation = (event) => {
     //
     if (event.target.classList.contains('active')) {
