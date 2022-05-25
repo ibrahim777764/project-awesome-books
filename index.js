@@ -143,7 +143,9 @@ const handleRemove = (currentId) => {
   }
 };
 
-
+const navigatePage = () => {
+  
+  const handleNavigation = (event) => {
     //
     if (event.target.classList.contains('active')) {
       return false;
