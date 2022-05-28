@@ -11,7 +11,7 @@
 - Css
 - positioning
 - PSuedo Classes
-- Flexbox
+- used javascript classes
 
 Javascrpit
 
